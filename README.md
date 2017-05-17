@@ -1,53 +1,53 @@
 # Amateur Radio Phonetic Alphabet
 
-A - Alpha
+A - Anthuor 🦌
 
-B - Bravo
+B - Broccoli 🌳
 
-C - Charlie
+C - Coven 🍯
 
-D - Delta
+D - Dongle 📟
 
-E - Echo
+E - E-meet 📩
 
-F - Foxtrot
+F - Frodo 🌋
 
-G - Golf
+G - Gazebo 🎪
 
-H - Hotel
+H - Hypogeum ⛳
 
-I - India
+I - Internet 💻
 
-J - Juliet
+J - Juicero 🍉
 
-K - Kilo
+K - Kimchi 🔥
 
-L - Lima
+L - Lunar 🌓
 
-M - Mike
+M - Mystery ⚗
 
-N - November
+N - New Wave 😎
 
-O - Oscar
+O - Oculus 🕶
 
-P - Papa
+P - Portal 🕳
 
-Q - Quebec
+Q - Quasi 〰️
 
-R - Romeo
+R - Reiki 🙌
 
-S - Sierra
+S - Sauerkraut 🥗
 
-T - Tango
+T - Tarot 🃏
 
-U - Uniform
+U - UFO 👽
 
-V - Victor
+V - Vinegar 🍷
 
-W - Whiskey
+W - Wizard 🎩
 
-X - X-ray
+X - X-Files 👩‍💼
 
-Y - Yankee
+Y - Yeti ☃️
 
-Z - Zulu
+Z - Zune 📱
